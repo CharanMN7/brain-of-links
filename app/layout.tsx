@@ -5,9 +5,8 @@ import { ThemeProvider } from "@/components/theme-provider";
 
 export const metadata: Metadata = {
   // Change this to your liking:
-  title: "Charan's Next 14 Template",
-  description:
-    "This is a Next 14 template created by Charan (https://charan.dev/)",
+  title: "brain of links",
+  description: "a brain for all your links",
 };
 
 const inter = Inter({ subsets: ["latin"] });
